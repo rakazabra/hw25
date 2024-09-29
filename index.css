@@ -1,0 +1,30 @@
+#main-box {
+    width: 500px;
+    height: 500px;
+}
+
+.squere {
+    width: 100px;
+    height: 100px;
+}
+
+#red {
+    background-color: rgb(240, 149, 149);
+    position: absolute;
+    top: 150px;
+    left: 150px;
+}
+
+#blue {
+    background-color: rgb(130, 130, 235);
+    position: absolute;
+    top: 200px;
+    left: 200px;
+}
+
+#green {
+    background-color: rgb(158, 228, 158);
+    position: absolute;
+    top: 250px;
+    left: 250px;
+}
